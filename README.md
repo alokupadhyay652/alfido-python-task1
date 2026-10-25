@@ -22,9 +22,12 @@ This program shows how to read and write files (TXT and CSV), automate simple fi
 os, shutil, csv
 
 ## How to run
+```
 python task1_file_handling.py
+```
 
 ## Output
+```
 Created directory: ./file_demo
 Sample files created successfully.
 Content read: Hello, this is a sample text file for automation demo.
@@ -34,3 +37,7 @@ Processing: Task_B - Pending
 Deleted archived_sample.txt
 File operation sequence completed.
 Current files in ./file_demo: ['data.csv']
+```
+
+## Repository
+https://github.com/alokupadhyay652/alfido-python-task1
